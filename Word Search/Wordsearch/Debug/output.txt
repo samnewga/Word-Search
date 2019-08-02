@@ -1,0 +1,20 @@
+the found 23 times.
+
+program found 0 times.
+
+can found 3 times.
+
+multiple found 1 times.
+
+select found 4 times.
+
+apple found 0 times.
+
+display found 1 times.
+
+item found 0 times.
+
+figure found 1 times.
+
+dialog found 5 times.
+
